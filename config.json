@@ -1,0 +1,7 @@
+{
+    "max_daily_applications": 100,
+    "target_titles": ["Data Analyst Intern", "Machine Learning Intern", "Software Intern"],
+    "locations": ["Remote", "New York", "San Francisco"],
+    "default_keywords": ["Python", "SQL", "ETL", "AWS", "PostgreSQL", "Pandas", "Data Engineering"]
+  }
+  
